@@ -1,0 +1,12 @@
+{
+    "name": "rubin/swoole-postgresql-ide-helper",
+    "description": "Swoole coroutine PostgreSQL client IDE helper.",
+    "authors": [
+        {
+            "name": "Roman Shashurin",
+            "email": "dalamar84@mail.ru"
+        }
+    ],
+    "license": "MIT",
+    "type": "library"
+}
